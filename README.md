@@ -32,11 +32,4 @@ The HTML file is bookmarks-readable, meaning you can import it in your preferred
   
 FYI Edge put my Collections under 'Other Favourites' and it took me way longer than I'd like to admit to find them after import -.-"
 
-
-# Tip me? 😊
-
 Hope this was helpful to some of you Collections _aficionados_.
-  
-If you can afford it, please consider [leaving a tip](https://buymeacoffee.com/cobaltspiral).
-
-
